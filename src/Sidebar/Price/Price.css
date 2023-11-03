@@ -1,0 +1,13 @@
+.price-title {
+  margin-top: 20px;
+}
+
+.ml {
+  margin-left: 20px;
+}
+@media (max-width: 767px) {
+  .price-title {
+      /* Adjust styles for smaller screens here */
+      margin-top: 10px; /* Example adjustment: increase top margin */
+  }
+}
