@@ -1,4 +1,4 @@
-# This is a template for E-commerce product list page. Made with using React.ja and bootstrap
+# This is a template for E-commerce product list page. Made with using React.js and bootstrap.
 
 
 # Getting Started with Create React App
